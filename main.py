@@ -9,6 +9,6 @@ if __name__=="__main__":
             app_icon=r"C:\Users\AMARTYA PANDEY\PycharmProjects\Drink_water_Notification\icon.ico",
             timeout=10
         ) 
-        time.sleep(60*60)
+        time.sleep(60*60)  # We will be notified every hour ! That's impressive just similar to setting an Alarm clock while we are constantly working
 
 
